@@ -1,2 +1,2 @@
 # python_study
-Studying Python basics
+Studying Python and data analysis
