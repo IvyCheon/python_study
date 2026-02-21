@@ -1,2 +1,2 @@
-# python_study
+# data-sandbox
 Studying Python and data analysis
